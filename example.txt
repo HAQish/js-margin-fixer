@@ -1,0 +1,11 @@
+We the people in order to form a more perfect union provide the blessings of 
+liberty to ourselves and our prospertiy We the people in order to form a more                        /end of window
+perfect union provide the blessings of liberty to ourselves and our prospertiy 
+
+
+
+
+\parWe the people in order to form a more perfect union provide the blessings of liberty to ourselves and our prospertiy We the people in order to form a more perfect union provide the blessings of liberty to ourselves and our prospertiy We the people in order to form a more perfect union provide the blessings of liberty to ourselves and our prospertiy We the people in order to form a more perfect union provide the blessings of liberty to ourselves and our prospertiy We the people in order to form a more perfect union provide the blessings of liberty to ourselves and our prospertiy.
+
+Given some document with text alignemnt => remove all text alignment so that all line breaks are removed, paragraphs are the only line breaks remaining.
+
